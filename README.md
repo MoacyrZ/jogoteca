@@ -7,7 +7,8 @@ Instale as libraries listadas em requirements.txt.
 ```
 
 ```
-Edite o arquivo prepara_banco.py para a criação do usuário e senha. (Adicione um usuário e senha pessoal, ou use os já fornecidos (Ex. Usuário: Monhaka, Senha: 1234)
+Edite o arquivo prepara_banco.py para a criação do usuário e senha. 
+(Adicione um usuário e senha pessoal, ou use os já fornecidos (Ex. Usuário: Monhaka, Senha: 1234)
 ```
 
 ```
